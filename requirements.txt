@@ -1,0 +1,8 @@
+# Python version (important for mediapipe compatibility)
+python==3.10
+
+opencv-python==4.8.1.78
+mediapipe==0.10.11
+pyautogui==0.9.54
+Pillow==10.0.1
+numpy==1.26.4
